@@ -44,7 +44,7 @@ Please ensure that your contributions align with the purpose and themes of the b
 
 ## Contact
 
-If you have any questions, suggestions, or feedback regarding the Clarity-IQ Psychology Blog, feel free to reach out. You can contact the author, Sushanth Hebri, via email at [sushanth.hebri@example.com](mailto:sushanthhebri336@gmail.com).
+If you have any questions, suggestions, or feedback regarding the Clarity-IQ Psychology Blog, feel free to reach out. You can contact the author, Sushanth Hebri, via email at [sushanthhebri336@gmail.com](mailto:sushanthhebri336@gmail.com).
 
 ---
 
